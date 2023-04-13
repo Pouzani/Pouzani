@@ -59,4 +59,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 ### Contribution graph 🐍
 
-![Snake animation](https://github.com/Pouzani/Pouzani/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
+![Snake animation](https://github.com/Pouzani/Pouzani/blob/output/github-contribution-grid-snake.svg)
