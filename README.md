@@ -32,7 +32,7 @@ I am a Software Engineering Student who is learning Full Stack Developpement ðŸ’
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pouzani&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-activity-graph.cyclic.app/graph?username=Bratet&theme=react-dark&hide_border=true&area=true)
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
 
