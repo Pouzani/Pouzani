@@ -12,7 +12,7 @@ I am a Software Engineering Student who is learning Full Stack Developpement �
  
  🌱 I’m currently learning <img src="https://www.simpleimageresizer.com/_uploads/photos/093751da/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3531322f737072696e672d6c6f676f2e706e67_20x.png" size=1> Spring framework
  
- :books: I want to learn <img src="https://e7.pngegg.com/pngimages/620/322/png-clipart-angularjs-ruby-on-rails-typescript-web-application-icon-hacker-angle-triangle.png" size=1/>
+ :books: I want to learn <img src="https://github.com/Pouzani/Pouzani/blob/main/pngegg%20(1).png?raw=true" size=1/>
  
 
 
