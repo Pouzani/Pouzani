@@ -32,9 +32,11 @@ I am a Software Engineering Student who is learning Full Stack Developpement �
 
 ---
 
-![GitHub stats](https://github-readme-activity-graph.cyclic.app/graph?username=Pouzani&theme=react-dark&hide_border=true&area=true)
+![Pouzani's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Pouzani&theme=react-dark&hide_border=true&area=true)
+![Pouzani's github stats](https://github-readme-stats.vercel.app/api?username=Pouzani&show_icons=true&theme=algolia)
+![Pouzani's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pouzani&theme=algolia)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+
 
 ---
 
