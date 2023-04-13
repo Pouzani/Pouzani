@@ -30,15 +30,16 @@ I am a Software Engineering Student who is learning Full Stack Developpement �
 ### Other Languages I know
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
----
 <div align="center"> 
+---
+
 ![Pouzani's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Pouzani&theme=react-dark&hide_border=true&area=true)
 ![Pouzani's github stats](https://github-readme-stats.vercel.app/api?username=Pouzani&show_icons=true&theme=algolia)
 ![Pouzani's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pouzani&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pouzani&langs_count=8&theme=algolia&layout=compact&hide=html)
-</div>
----
 
+---
+</div>
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="Pouzani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
