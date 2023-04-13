@@ -55,4 +55,8 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [instagram]: https://www.instagram.com/_riyad_bz/
 [linkedin]: https://www.linkedin.com/in/mohamed-riyad-bouzani/
 
+---
+
+### Contribution 🐍
+
 ![Snake animation](https://github.com/Pouzani/Pouzani/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
