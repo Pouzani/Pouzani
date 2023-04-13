@@ -42,7 +42,6 @@ I am a Software Engineering Student who is learning Full Stack Developpement ğŸ’
 
 
 ### You can find in me in the web ğŸŒ
-[<img align="left" alt="Pouzani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Pouzani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Pouzani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
